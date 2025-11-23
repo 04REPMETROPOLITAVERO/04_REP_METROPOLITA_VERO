@@ -4227,3 +4227,6 @@
 			}
 
 		}
+	/* Ocultar bloques específicos */
+	#three, #four, #footer section {display: none;
+	}		
